@@ -1,22 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
+body{
+    font-family: 'The Nautigal', cursive;
+    margin: 0;
+}
+#Allah{
+    font-size: 50px;
+}
+.green-color{
+    color: greenyellow;
+}
+.red-color{
+    color: hotpink;
+}
+.yellow-colo{
+    color: indigo;
+}
+.das-color{
+    color: lawngreen;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+   
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 3%;
+ 
+}
+.half-width img{
+width: 80%;
+height: 50%;
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>learning website-1</title>
-    <link rel="stylesheet" href="style.css">
-</head>
 
+}
+.big-font{
+    font-size: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple,rgb(114, 250, 121));
+    padding: 5px 15px;
+    border-radius: 10%;
+    color: yellow;
+    font-weight: 700px;
 
-<body>
-    <h1>আল্লাহ্‌ মহান</h1>
-    <h1>পবিত্র আল্লাহর নামে শুরু করিলাম</h1>
-    <h3> InsaArllah i will be a web developer</h3>
-    <p>You might saw me jumping, climbing buildings, and stopping trains. But nobody pays me a dime for that work.
-        That's
-        why I am learning and mastering web development. I will not stop until I become the Web Development Hero.</p>
-</body>
+}
+.top-image{
+    background-image: url(images/images.jfif.2.jfif);
+    background-repeat: no-repeat;
+    background-le
+}
 
-</html>
